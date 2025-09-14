@@ -1,16 +1,29 @@
-## Hi there 👋
+- 🔭 I’m currently working on
+  - Web applications with **Node.js & Express.js**
+  - 3D printing prototypes and DIY projects
 
-<!--
-**timondo/timondo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning
+  - New **web technologies** and frameworks
+  - Advanced **3D printing techniques**
+  - Physics and chemistry experiments
 
-Here are some ideas to get you started:
+- 👯 I’m looking to collaborate on
+  - Open-source **web projects**
+  - Tech gadgets
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤔 I’m looking for help with
+  - Tips on **advanced web development**
+
+- 💬 Ask me about
+  - HTML, JavaScript, Node.js, Express.js  
+  - 3D printing and maker projects  
+  - Road cycling 🚴‍♂️ or fishing 🎣  
+  - Physics & chemistry ⚗️🔭
+
+- 📫 How to reach me
+  - [GitHub](https://github.com/timondo)  
+  
+
+- ⚡ Fun fact
+  - I love bringing ideas to life – whether it's code, 3D printing, or experiments in chemistry and physics
+
